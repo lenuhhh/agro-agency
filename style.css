@@ -1438,7 +1438,6 @@ blockquote cite {
 }
 nav#navbar {
     display: flex;
-    align-items: baseline;
     justify-content: end;
     margin-top: 20px;
 }
